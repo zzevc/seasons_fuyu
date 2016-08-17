@@ -7,9 +7,9 @@
 	<vVoiceTable>
 		<vVoice>
 			<bs>4</bs>
-			<pc>0</pc>
-			<id><![CDATA[BETDB8W6KWZPYEB9]]></id>
-			<name><![CDATA[Tianyi_CHN]]></name>
+			<pc>3</pc>
+			<id><![CDATA[BMTD9EC6G4RPWMB3]]></id>
+			<name><![CDATA[YANHE]]></name>
 			<vPrm>
 				<bre>0</bre>
 				<bri>0</bri>
@@ -57,7 +57,7 @@
 		<resolution>480</resolution>
 		<preMeasure>4</preMeasure>
 		<timeSig><m>0</m><nu>4</nu><de>4</de></timeSig>
-		<tempo><t>0</t><v>12000</v></tempo>
+		<tempo><t>0</t><v>9000</v></tempo>
 	</masterTrack>
 	<vsTrack>
 		<tNo>0</tNo>
@@ -85,7 +85,7 @@
 			<singer>
 				<t>0</t>
 				<bs>4</bs>
-				<pc>0</pc>
+				<pc>3</pc>
 			</singer>
 			<cc><t>0</t><v id="P">0</v></cc>
 			<cc><t>0</t><v id="S">12</v></cc>
@@ -97,7 +97,7 @@
 				<t>12000</t>
 				<dur>240</dur>
 				<n>60</n>
-				<v>64</v>
+				<v>80</v>
 				<y><![CDATA[a]]></y>
 				<p><![CDATA[a]]></p>
 				<nStyle>
@@ -1025,31 +1025,6 @@
 					<v id="risePort">0</v>
 					<v id="vibLen">0</v>
 					<v id="vibType">0</v>
-				</nStyle>
-			</note>
-			<note>
-				<t>26640</t>
-				<dur>480</dur>
-				<n>58</n>
-				<v>64</v>
-				<y><![CDATA[a]]></y>
-				<p><![CDATA[a]]></p>
-				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
-					<v id="bendLen">0</v>
-					<v id="decay">50</v>
-					<v id="fallPort">0</v>
-					<v id="opening">127</v>
-					<v id="risePort">0</v>
-					<v id="vibLen">50</v>
-					<v id="vibType">13</v>
-					<seq id="vibDep">
-						<cc><p>32768</p><v>64</v></cc>
-					</seq>
-					<seq id="vibRate">
-						<cc><p>32768</p><v>64</v></cc>
-					</seq>
 				</nStyle>
 			</note>
 			<note>
@@ -4988,31 +4963,6 @@
 				</nStyle>
 			</note>
 			<note>
-				<t>101040</t>
-				<dur>480</dur>
-				<n>58</n>
-				<v>64</v>
-				<y><![CDATA[a]]></y>
-				<p><![CDATA[a]]></p>
-				<nStyle>
-					<v id="accent">50</v>
-					<v id="bendDep">8</v>
-					<v id="bendLen">0</v>
-					<v id="decay">50</v>
-					<v id="fallPort">0</v>
-					<v id="opening">127</v>
-					<v id="risePort">0</v>
-					<v id="vibLen">50</v>
-					<v id="vibType">13</v>
-					<seq id="vibDep">
-						<cc><p>32768</p><v>64</v></cc>
-					</seq>
-					<seq id="vibRate">
-						<cc><p>32768</p><v>64</v></cc>
-					</seq>
-				</nStyle>
-			</note>
-			<note>
 				<t>101520</t>
 				<dur>240</dur>
 				<n>58</n>
@@ -7921,7 +7871,7 @@
 			</note>
 			<note>
 				<t>144240</t>
-				<dur>1200</dur>
+				<dur>480</dur>
 				<n>68</n>
 				<v>64</v>
 				<y><![CDATA[a]]></y>
